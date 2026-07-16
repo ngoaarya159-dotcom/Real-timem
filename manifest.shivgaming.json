@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Shiv Gaming Club",
+	"version": "1.2",
+	"display": "standalone",
+	"background_color": "#1a1a2e",
+	"description": "Shiv Gaming Club",
+	"icons": [
+		{
+			"src": "/logo.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/wlogo.png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/#/"
+}

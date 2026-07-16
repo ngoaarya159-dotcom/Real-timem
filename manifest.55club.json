@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "55club",
+	"version": "1.2",
+	"display": "standalone",
+	"background_color": "#efaabc",
+	"description": "55club",
+	"icons": [
+		{
+			"src": "/91club@192.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/manifest/bdgwin@512.png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/#/"
+}
